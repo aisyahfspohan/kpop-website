@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hubungi Kami</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+<div id="wrapper">
+    <div id="container">
+        <header><img src="images/kpop.jpg"></header>
+        <nav>
+            <ul>
+                <li><a href="index.php">Beranda</a></li>
+                <li><a href="artikel.php">Artikel</a></li>
+                <li><a href="profil.php">Profil</a>
+                    <ul class="submenu">
+                        <li><a href="hubungi.php">Hub Kami</a></li>
+                        <li><a href="tentangkami.php">Tentang Kami</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+        <article>
+            <h2>Hubungi Kami</h2>
+            <p>Silakan hubungi kami melalui informasi berikut:</p>
+            <ul>
+                <li>Email:info@kpopzone.com</li>
+                <li>Telepon: +62-21-9876543</li>
+                <li>Alamat: Jl. Seoul Street No. 7, Jakarta Selatan</li>
+            </ul>
+        </article>
+        <footer>
+            <p>&copy; 2025 Artificial Intelligence Report — Semua Hak Dilindungi</p>
+        </footer>
+    </div>
+</div>
+</body>
+</html>
